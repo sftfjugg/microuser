@@ -4,7 +4,7 @@ import (
 	"context"
 	log "github.com/micro/go-micro/v2/logger"
 
-	microuser "github.com/sftfjuggg/microuser/proto/microuser"
+	microuser "github.com/sftfjugg/microuser/proto/microuser"
 )
 
 type Microuser struct{}
